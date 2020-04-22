@@ -1,0 +1,11 @@
+/home/deividas/Desktop/networking/3uzd/RIP/bin/Debug/netcoreapp3.1/RIP
+/home/deividas/Desktop/networking/3uzd/RIP/bin/Debug/netcoreapp3.1/RIP.deps.json
+/home/deividas/Desktop/networking/3uzd/RIP/bin/Debug/netcoreapp3.1/RIP.runtimeconfig.json
+/home/deividas/Desktop/networking/3uzd/RIP/bin/Debug/netcoreapp3.1/RIP.runtimeconfig.dev.json
+/home/deividas/Desktop/networking/3uzd/RIP/bin/Debug/netcoreapp3.1/RIP.dll
+/home/deividas/Desktop/networking/3uzd/RIP/bin/Debug/netcoreapp3.1/RIP.pdb
+/home/deividas/Desktop/networking/3uzd/RIP/obj/Debug/netcoreapp3.1/RIP.csprojAssemblyReference.cache
+/home/deividas/Desktop/networking/3uzd/RIP/obj/Debug/netcoreapp3.1/RIP.AssemblyInfoInputs.cache
+/home/deividas/Desktop/networking/3uzd/RIP/obj/Debug/netcoreapp3.1/RIP.AssemblyInfo.cs
+/home/deividas/Desktop/networking/3uzd/RIP/obj/Debug/netcoreapp3.1/RIP.dll
+/home/deividas/Desktop/networking/3uzd/RIP/obj/Debug/netcoreapp3.1/RIP.pdb
